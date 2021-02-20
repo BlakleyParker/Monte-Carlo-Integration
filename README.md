@@ -13,6 +13,9 @@ mpiicc –Wall mc-integration-parallel.c –o mc-integration
 and can be ran with,
 
 ./mc-integration <a> <b> <n>
+
 a = first x bound
+
 b = second x bound
+
 n = number of points generated
