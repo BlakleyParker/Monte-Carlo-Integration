@@ -19,3 +19,5 @@ a = first x bound
 b = second x bound
 
 n = number of points generated
+
+**The function supplied must be continuous and f(b) must be greater than f(a) for the program to function properly.**
